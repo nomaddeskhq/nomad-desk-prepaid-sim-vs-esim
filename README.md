@@ -1,0 +1,1 @@
+# nomad-desk-prepaid-sim-vs-esim
